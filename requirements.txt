@@ -1,0 +1,5 @@
+Data Engineer       Jose Francisco Gonzalez
+Data scientist      Jorge Rivera
+Sofware Engineer    Cesar Armando Prieto
+ML Engineer         Scarlet Wessin
+Site Reliability Engineer (Devops) Juan Pablo Trevino Lozano
