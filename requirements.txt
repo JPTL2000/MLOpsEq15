@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-Data Engineer       Jose Francisco Gonzalez
-Data scientist      Jorge Rivera
-Sofware Engineer    Cesar Armando Prieto
-ML Engineer         Scarlet Wessin
-Site Reliability Engineer (Devops) Juan Pablo Trevino Lozano
-=======
 dvc
 dvc[s3]
->>>>>>> df462349183d48e67951980293291b1fcaed4f07
