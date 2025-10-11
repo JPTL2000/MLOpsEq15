@@ -1,4 +1,7 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = gdrive://1AHN_bSoq59x43NIg6AZfEsOtiTD9NaAM
+    url = s3://dvc-storage-mlops-eq15
+    region = us-east-2
+    access_key_id = AKIA5JFDZAV6RKMPRBFK
+    secret_access_key = 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
