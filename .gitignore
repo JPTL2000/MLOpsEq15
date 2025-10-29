@@ -4,3 +4,5 @@
 /models
 /data
 .venv/
+/mlartifacts
+/mlruns
