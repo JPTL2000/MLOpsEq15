@@ -1,0 +1,8 @@
+*.json
+*.env
+.secrets/
+/models
+/data
+.venv/
+/mlartifacts
+/mlruns

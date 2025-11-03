@@ -1,0 +1,8 @@
+dvc
+dvc[s3]
+ipykernel
+pandas
+seaborn
+scikit-learn
+scipy
+mlflow
