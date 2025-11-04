@@ -6,3 +6,4 @@
 .venv/
 /mlartifacts
 /mlruns
+/data/*
